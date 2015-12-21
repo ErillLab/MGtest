@@ -55,9 +55,9 @@ rpssm = pssm.reverse_complement()
 
 #-------------------------------------------------------------------------
 #Experiment 2:
-#Using 100 sequences, with 10 sites inserted
-#get unormalizazed and normalized probability
-#do this for 1, 2, 3, 4, 5 and 6 stdevs below mean
+#Using 100 sequences, with 12 sites inserted
+#get normalizazed probability
+#do this for 2, 3, 4, 5, 6 and 8 stdevs below mean
 #repeat 1000 times
 random.seed(None)
 verbose=1
